@@ -1,0 +1,22 @@
+{
+  "name": "git-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Savant97/testschool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Savant97/testschool/issues"
+  },
+  "homepage": "https://github.com/Savant97/testschool#readme",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
